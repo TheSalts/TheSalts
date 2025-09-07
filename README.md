@@ -18,3 +18,23 @@
  
 </div>
 
+<div align=center>
+<br>
+  
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TheSalts&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TheSalts&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheSalts&show_icons=true" />
+</picture>
+  
+<br>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joon_sa)](https://solved.ac/joon_sa/)
+
+</div>
